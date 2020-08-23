@@ -1,3 +1,6 @@
-d3.domVisualizer
-================
-d3 plugin that render an HTML string as a d3 tree
+**DOM Visualizer**
+
+This helps learners to understand the HTML codes easily by visualizing the code as an image.
+
+Credits: Bioub
+
